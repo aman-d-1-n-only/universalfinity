@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+background-image: url(https://images4.alphacoders.com/964/thumb-1920-964095.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+html{
+    height:100%;
+}
+#content{
+text-align: center;
+ margin-top:300px;
+ padding-left:50px;
+ text-shadow:1px 1px 3px grey;
+}
+h1{
+font-weight:700;
+font-size:4em;
+}
+
+hr{
+ width:600px;
+border-top:1px solid black;
+}
+
+#existance{
+   text-shadow:2px 4px 7px grey;  
+}
